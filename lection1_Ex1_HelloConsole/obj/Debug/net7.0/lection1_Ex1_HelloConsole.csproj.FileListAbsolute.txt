@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\bin\Debug\net7.0\lection1_Ex1_HelloConsole.exe
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\bin\Debug\net7.0\lection1_Ex1_HelloConsole.deps.json
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\bin\Debug\net7.0\lection1_Ex1_HelloConsole.runtimeconfig.json
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\bin\Debug\net7.0\lection1_Ex1_HelloConsole.dll
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\bin\Debug\net7.0\lection1_Ex1_HelloConsole.pdb
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\obj\Debug\net7.0\lection1_Ex1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\obj\Debug\net7.0\lection1_Ex1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\obj\Debug\net7.0\lection1_Ex1_HelloConsole.AssemblyInfo.cs
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\obj\Debug\net7.0\lection1_Ex1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\obj\Debug\net7.0\lection1_Ex1_HelloConsole.dll
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\obj\Debug\net7.0\refint\lection1_Ex1_HelloConsole.dll
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\obj\Debug\net7.0\lection1_Ex1_HelloConsole.pdb
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\obj\Debug\net7.0\lection1_Ex1_HelloConsole.genruntimeconfig.cache
+C:\Users\user\Desktop\Обучения\Аналитик данных\4. Знакомство с языками программирования\Семинар №1. Языки программирования\lection1_Ex1_HelloConsole\obj\Debug\net7.0\ref\lection1_Ex1_HelloConsole.dll
